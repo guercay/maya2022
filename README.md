@@ -1,2 +1,2 @@
 # maya2022
-Maya2022 Kitabında Kullanılan Dosyaları
+Autodesk Maya 2022 Kitabında Kullanılan Dosyalardır
